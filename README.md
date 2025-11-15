@@ -1,7 +1,3 @@
-Here is a polished, professional, publication-ready **README.md** for your FarmTech project.
-You can copy-paste it directly into your GitHub repository.
-
----
 
 # 🌾 **FarmTech – Your Smart Farming Assistant**
 
